@@ -1,4 +1,4 @@
-# sonic-1-sms-remake-vita
+# Sonic 1 SMS Remake Vita
 
 A port of the fangame **Sonic 1 SMS Remake** for the **PSVita**.
 
