@@ -17,8 +17,6 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
 **v1.9:**
 
-• Competition connections fixed
-
 • Marble Zone glass platform bug fixed
 
 • Scrap Brain light arrows bug fixed
