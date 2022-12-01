@@ -4,15 +4,65 @@ A port of the fangame **Sonic 1 SMS Remake** for the **PSVita**.
 
 Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
-**Expected bugs and issues:**
+**Highlights of the latest update:**
+
+**v1.9 Rev.2:**
+<br>
+• Fixed major memory leak **(no more crashes! \o/)**
+<br>
+• 60 FPS mode!
+<br>
+• Major optimizations overall (now the game runs at a locked 60 FPS even at stock CPU clocks)
+<br>
+• Lots of other optimizations
+
+**Side notes:**
 
 1. Competition has been removed. Unfortunately, it is not possible to implement it.
-2. Scrap Brain Act 2 needs full overclock to 500 Mhz to run at 24 FPS. Without OC, it will run at ~17 FPS. **On PSTV**, expect a little more lag due to the PSTV running at a higher resolution. Should run around ~20 FPS fully overclocked. Without OC, around ~15 FPS.
-3. If you leave the game idleing for too long, it will eventually crash. This is not related to the game, but related to either the GMS Vita executable or a plugin that is generally used by most users. Just be sure to press the PS button before turning off the screen of the console to leave it in standby.
+2. The game has been optimized to run at a locked 60 FPS even on stock CPU clocks. However, if you feel you are experiencing loss of framerate in any level of the game, it is recommended to overclock your PSVita.
 
 --------------------
 
 **Changelog:**
+
+
+**v1.9 rev.2:**
+
+- Now in 60 FPS (switch 30/60 modes)
+
+- New optimization system
+
+- New main camera
+
+- New menu: Gameplay
+
+- New Badnik Roller in Spring Yard Zone
+
+- New chain sound effects in Marble Zone
+
+-  New physics of Ray the Flying Squirrel
+
+- Spring Yard Act 2 level design changes
+
+- Mask bug fixed on big buttons at Zones
+
+- Polishing the physics of zones
+
+- Correction in the Shaders of Labyrinth Zone
+
+- Option to enable/disable Air Jump
+
+- Change(B) button is used as a back function in the options
+
+- Removed cameras option
+
+- Super animation fix
+
+- Fixed bugs on platforms
+
+- General review of the game by Beta Testers
+
+- Updated credits
 
 
 **v1.9:**
