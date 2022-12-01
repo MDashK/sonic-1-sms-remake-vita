@@ -1,6 +1,6 @@
-# Sonic 1 SMS Remake Vita
+# Sonic SMS Remake Vita
 
-A port of the fangame **Sonic 1 SMS Remake** for the **PSVita**.
+A port of the fangame **Sonic SMS Remake** for the **PSVita**.
 
 Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
@@ -52,7 +52,7 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
 - Option to enable/disable Air Jump
 
-- Change(B) button is used as a back function in the options
+- Change(Circle) button is used as a back function in the options
 
 - Removed cameras option
 
