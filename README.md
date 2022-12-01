@@ -6,8 +6,6 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
 **Highlights of the latest update:**
 
-**v1.9 Rev.2:**
-<br>
 • Fixed major memory leak **(no more crashes! \o/)**
 <br>
 • 60 FPS mode!
